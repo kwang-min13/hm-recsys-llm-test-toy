@@ -1,6 +1,7 @@
-# 🧬 Local Helix — H&M 개인화 추천 시스템
+# 🧬 HM-Recsys-llm-test-toy_수정중
 
-> H&M 실 거래 데이터 기반의 LLM-Enhanced 추천 시스템 & A/B 테스트 시뮬레이션 파이프라인
+
+> H&M 실 거래 데이터 모델 기반의 추천 시스템 & A/B 테스트 LLM 시뮬레이션 파이프라인
 
 ## 📋 목차
 
@@ -17,7 +18,7 @@
 
 ## 프로젝트 개요
 
-**Local Helix**는 H&M의 실제 거래 데이터(`transactions_train.csv`, `articles.csv`, `customers.csv`)를 활용하여 **개인화된 상품 추천**을 제공하는 End-to-End ML 파이프라인입니다.
+**HM-Recsys-llm-test-toy**는 H&M의 실제 거래 데이터(`transactions_train.csv`, `articles.csv`, `customers.csv`)를 활용하여 **개인화된 상품 추천**을 제공하는 모델을 만들고 고객 세그먼트 기반으로 페르소나를 만들어 LLM 시뮬레이션을 수행합니다.
 
 ### 핵심 기능
 
